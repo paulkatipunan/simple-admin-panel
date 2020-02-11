@@ -1,0 +1,13 @@
+{
+    "name": "paulkatipunan/simple-admin-panel",
+    "description": "simple admin panel",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Paul Adrian Katipunan",
+            "email": "paul.katipunan13@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
