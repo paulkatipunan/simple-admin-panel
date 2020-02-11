@@ -1,13 +1,18 @@
 {
     "name": "paulkatipunan/simple-admin-panel",
-    "description": "simple admin panel",
-    "type": "project",
+    "description": "Simple admin panel",
+    "license": "MIT",
     "authors": [
         {
-            "name": "Paul Adrian Katipunan",
-            "email": "paul.katipunan13@gmail.com"
+            "name": "paul adrian",
+            "email": "yeorem1019@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-0": {
+            "PaulKatipunan": "src/"
+        }
+    },
     "minimum-stability": "dev",
     "require": {}
 }
