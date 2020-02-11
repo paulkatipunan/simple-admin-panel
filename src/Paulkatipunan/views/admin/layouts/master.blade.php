@@ -52,7 +52,7 @@
     @include('admin.layouts.nav')
     <!--main-container-part-->
 
-    <main id="app" role="main" class="col-md-9 ml-sm-auto col-lg-10 pt-3 px-4">
+    <main id="app" role="main" class="col-md-9 ml-sm-auto col-lg-10 pt-3 px-4 mt-5">
         <div class="se-pre-con"></div>
         @yield('content')
     </main>
