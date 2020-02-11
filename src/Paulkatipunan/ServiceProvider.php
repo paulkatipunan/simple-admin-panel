@@ -27,7 +27,7 @@ class ServiceProvider extends BaseServiceProvider
         ]);
 
         $this->publishes([
-           __DIR__.'/public/css/dashboard.css' => public_path('/public/css/dashboard.css'),
+           __DIR__.'/public/css/dashboard.css' => public_path('/css/dashboard.css'),
         ]);
     }
 }
